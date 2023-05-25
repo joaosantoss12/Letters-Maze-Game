@@ -1,2 +1,2 @@
 # Letters-Maze
-Letters Maze built in Assembly language.
+Letters Maze game built in Assembly language.
